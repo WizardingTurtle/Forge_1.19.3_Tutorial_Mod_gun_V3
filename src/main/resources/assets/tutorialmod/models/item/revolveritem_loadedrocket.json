@@ -1,0 +1,6 @@
+{
+  "parent": "tutorialmod:item/revolver",
+  "textures": {
+    "layer0": "tutorialmod:item/revolveritem_loadedrocket"
+  }
+}

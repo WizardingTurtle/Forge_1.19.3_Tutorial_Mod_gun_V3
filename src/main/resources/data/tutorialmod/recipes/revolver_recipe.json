@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#IL",
+    "RBW",
+    "  W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dispenser"
+    },
+    "R": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "minecraft:lever"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:sixshooter"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "item.tutorialmod.black_opal": "Black Opal",
+  "item.tutorialmod.raw_black_opal": "Raw Black Opal",
+
+  "item.tutorialmod.revolveritem": "Revolver",
+  "item.tutorialmod.revolver": ".44 Magnum",
+  "item.tutorialmod.sixshooter": "Magnum",
+  "item.tutorialmod.kaupenbow": "Kaupenbow",
+
+  "item.tutorialmod.revolver_ammo": ".44 bullet",
+
+  "creativemodetab.tutorial_tab": "Tutorial Tab",
+
+  "key.category.tutorialmod.tutorial": "Tutorial Mod",
+  "key.tutorialmod.reload_ammo":"Reload",
+
+  "message.tutorialmod.reload_ammo": "Reloading",
+  "message.tutorialmod.empty": "EMPTY",
+  "message.tutorialmod.emptyrevolver": "*click",
+  "message.tutorialmod.full": "FULLY LOADED",
+
+  "entity.tutorialmod.bullet_entity": "Bullet"
+}
